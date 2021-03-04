@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width">400dp</dimen>
+    <dimen name="height">40dp</dimen>
+    <dimen name="margintop">10dp</dimen>
+    <dimen name="landwidth">250dp</dimen>
+    <dimen name="landheight">80dp</dimen>
+    <dimen name="marginend">10dp</dimen>
+</resources>
